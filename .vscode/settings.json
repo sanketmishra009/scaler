@@ -1,0 +1,9 @@
+{
+  "mdx-preview.preview.useVscodeMarkdownStyles": false,
+  "markdown.preview.doubleClickToSwitchToEditor": false,
+  "editor.rename.enablePreview": false,
+  "workbench.editor.enablePreview": false,
+  "notebook.diff.enablePreview": false,
+  "markdown.extension.preview.autoShowPreviewToSide": false,
+  "json.schemas": []
+}
