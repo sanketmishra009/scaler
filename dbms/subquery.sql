@@ -53,3 +53,4 @@ where product_size like ' ';
 select product_name , product_size , 
 ifnull(product_size , 'unknown') as cleaned_product_size
 from product;
+
